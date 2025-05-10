@@ -23,4 +23,8 @@ public abstract class Player {
         this.habilidadeCorrer.correr();
     }
 
+
+    public void setHabilidadeCorrer(RunBehavior habilidadeCorrer) {
+        this.habilidadeCorrer = habilidadeCorrer;
+    }
 }
