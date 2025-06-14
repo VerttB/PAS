@@ -1,0 +1,2 @@
+A classe gateway seria a interface no estrategy que seria implementada na classe de pagamento
+e as classes pagamentodebito,credito e dinheiro seriam as que a utilizariam

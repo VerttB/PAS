@@ -1,0 +1,4 @@
+A classe adapter é é a classe ShotGunAdapter
+O Adaptee é a classe que ta vindo do pacote
+O target é a interface Arma
+O client é o Atirador

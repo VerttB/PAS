@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e831d189-0455-4145-8e3b-2235968948da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../padroes2/parte1/Gateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes2/parte1/PagamentoCredito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes2/parte1/PagamentoDebito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes2/parte1/PagamentoDinheiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes2/parte1/TestePagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes2/parte2/Gateway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes2/parte2/Pagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes2/parte2/PagamentoCredito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes2/parte2/PagamentoDebito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes2/parte2/PagamentoDinheiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes2/parte2/TestePagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes2/parte2/parte2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes2/parte2/text.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes2/parte3/BdConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes2/parte3/CalculadoraPreco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes2/parte3/MySqlConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes2/parte3/PedidoService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes2/parte3/PostgresConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes2/parte3/TestePedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte1/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte1/Newsletter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte1/TesteNotificacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte2/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte2/Newsletter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte2/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte2/TesteNotificacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte3/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte3/Fornecedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte3/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte3/Newsletter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte3/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte3/TesteNotificacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte4/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte4/Fornecedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte4/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte4/Newsletter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte4/NotificacaoEmail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte4/NotificacaoSMS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte4/NotificacaoStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte4/NotificacaoWhatsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte4/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte4/TesteNotificacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte4/padroes3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte5/Alerta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte5/PainelControle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte5/Sensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte5/SensorPressao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte5/SensorTemperatura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte5/SensorUmidade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../padroes3/parte5/TesteSensor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../parte1/Arma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../parte1/Atirador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../parte1/Fuzil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../parte1/Pistola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../parte1/Rifle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../parte1/TesteArma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../parte1/parte1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Arma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Atirador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Fuzil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Pistola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Rifle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ShotGunAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../TesteArma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Text.text" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/padroes.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte1/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte3/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte1/SoccerPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte2/SoccerPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte1/TennisPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte1/TennisPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte1/TesteJogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte1/TesteJogo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte1/parte1.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte1/parte1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte2/CardPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte2/CardPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte2/ChessPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte2/ChessPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte2/GolfPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte2/GolfPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte2/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte2/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte2/SoccerPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte1/SoccerPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte2/TennisPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte2/TennisPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte2/TesteJogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte2/TesteJogo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte2/parte2.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte2/parte2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte3/CardPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte3/CardPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte3/ChessPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte3/ChessPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte3/GolfPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte3/GolfPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte3/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte1/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte3/Runnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte3/Runnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte3/SoccerPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte3/SoccerPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte3/TennisPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte3/TennisPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte3/TesteJogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte3/TesteJogo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte3/parte3.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte3/parte3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte4/CardPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte4/CardPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte4/ChessPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte4/ChessPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte4/GolfPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte4/GolfPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte4/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte4/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte4/RunBehavior.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte4/RunBehavior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte4/RunFast.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte4/RunFast.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte4/RunNoWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte4/RunNoWay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte4/SoccerPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte4/SoccerPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte4/TennisPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte4/TennisPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte4/TesteJogo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte4/TesteJogo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte4/parte4.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte4/parte4.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte5/ComportamentoFrete.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte5/ComportamentoFrete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte5/FreteComum.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte5/FreteComum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte5/FreteExpresso.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte5/FreteExpresso.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte5/Pedido.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte5/Pedido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte5/PedidoEletronico.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte5/PedidoEletronico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte5/PedidoMoveis.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte5/PedidoMoveis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte5/TesteFrete.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte5/TesteFrete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../padroes/src/roteiro1/parte5/parte5.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../padroes1/parte5/parte5.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2xT0VVNffsoMpJ24eokK59eT9QA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/JavaCodes/roteiros/roteiros/src/padroes4/parte2/Roteiro4_nova_arma/Roteiro4_nova_arma",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e831d189-0455-4145-8e3b-2235968948da" name="Changes" comment="" />
+      <created>1747946785611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747946785611</updated>
+    </task>
+    <servers />
+  </component>
+</project>
